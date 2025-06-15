@@ -3,12 +3,19 @@ Welcome to Jarvis, your own voice-activated AI-powered desktop assistant inspire
 
 🚀 Features
 🔊 Voice Recognition – Interact using voice commands
+
 📢 Text-to-Speech (TTS) – Jarvis speaks back to you
+
 🌐 Web Integration – Search Google, YouTube, Wikipedia, etc.
+
 📅 Reminders & Notes – Set reminders, take notes
+
 🎵 Media Control – Play music from your device
+
 🖥️ System Control – Open apps, get system info, shut down/restart PC
+
 🧠 AI Chat Mode – Interact with an AI chatbot for queries and conversation
+
 🔐 Optional authentication or wake word (if implemented)
 
 🛠️ Built With
@@ -21,7 +28,6 @@ speech_recognition, pyttsx3, datetime, os, webbrowser, (or any libraries you use
 
 🧑‍💻 How to Run
 Clone the repository:
-
 cd MegaProject1-Jarvis
 
 Install dependencies:
@@ -32,6 +38,9 @@ python main.py
 
 
 ✅ Prerequisites
+
 Python 3.x installed
+
 Working microphone
+
 Internet connection for certain features
