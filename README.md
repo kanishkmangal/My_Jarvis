@@ -44,3 +44,9 @@ Python 3.x installed
 Working microphone
 
 Internet connection for certain features
+
+
+
+🙋‍♂️ Author
+Created by Kanishk Mangal
+GitHub: @kanishkmangal
