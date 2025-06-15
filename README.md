@@ -22,8 +22,8 @@ speech_recognition, pyttsx3, datetime, os, webbrowser, (or any libraries you use
 🧑‍💻 How to Run
 Clone the repository:
 
-git clone https://github.com/yourusername/jarvis-project.git
 cd MegaProject1-Jarvis
+
 Install dependencies:
 pip install -r requirements.txt
 
